@@ -1,0 +1,8 @@
+{
+	"data":20,"parent":"item/generated","textures":
+	{"layer0":"item/brick"},"overrides":
+		[
+			{"predicate":{"custom_model_data":84621},"model":"splashes/water_medium_splash"},
+			{"predicate":{"custom_model_data":84622},"model":"splashes/lava_medium_splash"}
+		]	
+}

@@ -1,0 +1,32 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:slime",
+          "nbt": "{Size:3}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "minecraft:magma_cube",
+          "nbt": "{Size:3}"
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "type": "#splashes:big_size",
+          "flags": {
+            "is_baby": false
+          }
+        }
+      }
+    ]
+  }
+  

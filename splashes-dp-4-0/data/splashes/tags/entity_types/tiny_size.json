@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:silverfish",
+    "minecraft:endermite",
+    "minecraft:item",
+    "minecraft:pufferfish",
+    "minecraft:tropical_fish",
+    "minecraft:rabbit",
+    "minecraft:experience_orb"
+  ]
+}

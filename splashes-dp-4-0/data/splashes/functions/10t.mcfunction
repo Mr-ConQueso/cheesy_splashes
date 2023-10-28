@@ -1,0 +1,2 @@
+schedule function splashes:10t 1t 
+execute as @e[predicate=splashes:mobs_detect,tag=!splash_fast_fall,nbt=!{inGround:1b},nbt=!{FallDistance:0.0f},nbt=!{OnGround:1b}] at @s run execute unless block ~ ~ ~ water at @s run execute unless block ~ ~ ~ lava at @s run execute at @p[distance=..32] at @s run function splashes:fall_get
