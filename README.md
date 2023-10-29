@@ -5,3 +5,6 @@
 </h1>
 
 Water splashes in a Datapack!
+
+<h1></h1>
+<h4 align="center">Find out more about Cheesy's Splashes on <a href="https://legacy.curseforge.com/minecraft/customization/cheesys-splashes">Curseforge</a> or <a href="https://modrinth.com/mod/cheesy_splashes">Modrinth</a> Page</h4>
