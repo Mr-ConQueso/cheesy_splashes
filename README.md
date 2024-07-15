@@ -9,5 +9,14 @@
 
 Water splashes in a Datapack!
 
+This datapack adds the splashing effect as seen in the Caves & Cliffs trailer.
+The original idea and video are a [**MOD**](https://modrinth.com/mod/effective) created by [doctor4t](https://modrinth.com/user/RAT), all credits are his and this datapack was uploaded **with his full consent**.
+
+Original concept and textures by [doctor4t](https://modrinth.com/user/RAT)
+- [Original video﻿](https://www.youtube.com/watch?v=gx4mNQHiOUc)
+- [Original Mod Download](https://modrinth.com/mod/effective)
+
+Datapack coding by Mr.ConQueso & MC Silver
+
 <h1></h1>
 <h4 align="center">Find out more about Cheesy's Splashes on the <a href="https://legacy.curseforge.com/minecraft/customization/cheesys-splashes">Curseforge</a> or <a href="https://modrinth.com/mod/cheesy_splashes">Modrinth</a> Page</h4>
